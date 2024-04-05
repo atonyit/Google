@@ -31,7 +31,9 @@ button{
     border:1px solid #F8F9FA ;
 }
 
-
+button:hover{
+    cursor: pointer;
+}
 
 
 
