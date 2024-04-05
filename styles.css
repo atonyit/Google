@@ -10,9 +10,9 @@ body{
 }
 
 .title{
-    width: 50%;
+    width: 23%;
     display: block;
-    margin: 100px auto 20px;
+    margin: 120px auto 20px;
 }
 
 input{
@@ -20,9 +20,9 @@ input{
     display:block;
     border-radius: 24px;
     border: 1px solid #DFE1E5;
-    height: 45px;
+    height: 40px;
     margin: 0 auto 29px;
-    width: 90%;
+    width: 45%;
     padding-left: 30px;
 }
 
