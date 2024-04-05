@@ -1,1 +1,1 @@
-Tested skills using HTML and CSS to create a replica of googles search page (Doesn't include functionality)
+Made from scratch to test my skills using HTML and CSS. Created a replica of Google's search page (Doesn't include functionality)
