@@ -1,22 +1,37 @@
-h1{
-    padding-top: 20%;
+body{
+    margin: 0;
+    padding: 0;
     text-align: center;
-    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
-    font-size: 100px;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: normal;
-    line-height: 26.4px;
-} 
+}
 
-.search{
-    --target-size: 48px;
-    --box-height: var(--target-size);
-    height: var(--box-height);
+img{
+    width: 50%;
+    display: block;
+    margin: 100px auto 20px;
 }
-svg{
-    size: 10px;
+
+input{
+    box-sizing: border-box;
+    display:block;
+    border-radius: 24px;
+    border: 1px solid #DFE1E5;
+    height: 45px;
+    margin: 0 auto 29px;
+    width: 90%;
+    padding-left: 30px;
 }
+
+button{
+    box-sizing: border-box;
+    margin-top: 0;
+    padding: 0 16px;
+    font-size:  15px;
+    height: 38px;
+    background-color: #F8F9FA;
+    border:1px solid #F8F9FA ;
+}
+
+
 
 
 
