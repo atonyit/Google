@@ -38,18 +38,9 @@ button{
     border:1px solid #F8F9FA ;
 }
 
-button:hover{
-    cursor: pointer;
-}
-
-pre:hover{
-    cursor: pointer;
-}
-
-dots:hover{
-    cursor: pointer;
-}
-
+button:hover,
+pre:hover,
+dots:hover,
 profile:hover{
     cursor: pointer;
 }
