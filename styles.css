@@ -1,10 +1,15 @@
 body{
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.div{
     text-align: center;
 }
 
-img{
+.title{
     width: 50%;
     display: block;
     margin: 100px auto 20px;
@@ -33,6 +38,32 @@ button{
 
 button:hover{
     cursor: pointer;
+}
+
+p:hover{
+    cursor: pointer;
+}
+
+dots:hover{
+    cursor: pointer;
+}
+
+profile:hover{
+    cursor: pointer;
+}
+
+.dots{
+    position: absolute;
+    width: 30px;
+    top: 1%;
+    margin-left: 0px;
+}
+
+.profile{
+    position: absolute;
+    width: 35px;
+    top: 1%;
+    margin-left: 25px;
 }
 
 
